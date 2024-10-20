@@ -1,3 +1,3 @@
-# Transformers-Factory: Accelerating Neural Networks with Python and CUDA — A Comparative Study with MNIST Classifiers
+# Transformers-Factory: A library for Transformer models, Comparison Study Cuda vs Python
 
 implementation of the transformers and CNN or classification on Mnist data using both: cuda and python
