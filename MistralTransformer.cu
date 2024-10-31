@@ -2,7 +2,7 @@
 #include <vector>
 #include <iostream>
 
-// CUDA kernel for generating positions 
+// CUDA kernel for generating positions  
 __global__ void generate_positions(int* positions, int* seqlens, int total_length) {
     int idx = threadIdx.x + blockDim.x * blockIdx.x;
     if (idx < total_length) {
