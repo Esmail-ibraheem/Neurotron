@@ -15,4 +15,4 @@ currently, I am thinking of building these papers:
 - Mistral
 - etc...
 
-**The implementation will be as the name suggests from scratch means not just implementation in pure Pytorch but also with Cuda**
+**The implementation will be as the name suggests from scratch, which means not just implementation in pure Pytorch but also with Cuda**
