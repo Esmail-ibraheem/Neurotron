@@ -1,3 +1,3 @@
-# Transformers-Factory: A library for Transformer models, Comparison Study Cuda vs Python
+# FromScratch
 
-implementation of the transformers and CNN or classification on Mnist data using both: cuda and python
+rebuild and implementation of early papers of ML such as CNN, RNN, ResNet, AlexNet, ViT, and Transformers (GPT, "attentions is all you need", Llama, Mistral)
