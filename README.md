@@ -14,3 +14,5 @@ currently, I am thinking of building these papers:
 - Llama
 - Mistral
 - etc...
+
+**The implementation will be as the name suggests from scratch means not just implementation in pure Pytorch but also with Cuda**
