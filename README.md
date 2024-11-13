@@ -14,5 +14,5 @@ currently, I am thinking of building these papers:
 - Llama
 - Mistral
 - etc...
-
+- https://github.com/langchain-ai/rag-from-scratch
 **The implementation will be as the name suggests from scratch, which means not just implementation in pure Pytorch but also with Cuda**
